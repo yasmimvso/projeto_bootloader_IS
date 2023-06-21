@@ -1,9 +1,8 @@
 # bootloader-IS
-projeto de bootloader da disciplina de infraestrutura de software
+Projeto de bootloader da disciplina de Infraestrutura de Software
 
-CriptoCin é um jogo de criptografia dividido em duas fases, no qual você deverá decifrar uma mensagem criptografada.
+📌CriptoCin é um jogo de criptografia dividido em duas fases, no qual você deverá decifrar uma mensagem criptografada.
 
-O jogo é baseado em chances, a cada chance o player tem o desafio
-de desvendar e quebrar a cptografia do cin, com a ajuda de uma dica em cada fase.
+- O jogo é baseado em chances, a cada chance o player tem o desafio
+de desvendar e "quebrar a criptografia do CIn".
 
-Na pasta, use o comando make all para compilar os arquivos.
